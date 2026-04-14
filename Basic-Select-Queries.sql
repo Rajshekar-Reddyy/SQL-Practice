@@ -47,3 +47,7 @@ FROM EMP;
 10. waqtd the emp fname,SAL
 select fname,sal 
 from emp;
+
+11.WAQTD THE DETAILS OF EMP
+SELECT * 
+FROM EMP;
